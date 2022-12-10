@@ -46,7 +46,7 @@ curl https://raw.githubusercontent.com/pivpn/pivpn/master/auto_install/install.s
 ### Method 3 (clone repo)
 
 ```Shell
-git clone https://github.com/pivpn/pivpn.git
+git clone https://github.com/Marsel2108/pivpn.git
 bash pivpn/auto_install/install.sh
 ```
 
